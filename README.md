@@ -11,10 +11,6 @@ Apasionado por el desarrollo de software, siempre estoy en busca de aprender nue
 
 ## 🌱 Actualmente interesado en aprender más sobre desarrollo web y tecnologías full stack.
 
-## 📫 Cómo contactarme
-
-*(Puedes encontrar mis datos de contacto en mi perfil de GitHub.)*
-
 ## ✨ Intereses
 
 - Desarrollo de software
