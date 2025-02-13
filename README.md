@@ -9,7 +9,7 @@ Apasionado por el desarrollo de software, siempre estoy en busca de aprender nue
 - **Bases de datos**: SQL, MySQL.
 - **Otros**: Git, GitHub, VS Code, MySQL Workbench.
 
-## 🌱 Actualmente interesado en aprender más sobre desarrollo web y tecnologías full stack.
+## 🌱 Actualmente interesado en aprender más sobre desarrollo web full stack.
 
 ## ✨ Intereses
 
